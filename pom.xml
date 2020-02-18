@@ -29,4 +29,8 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <finalName>hjb</finalName>
+    </build>
+
 </project>
